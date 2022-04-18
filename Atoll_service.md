@@ -29,6 +29,10 @@
 11. Сравнение 550e vs 550 std - https://voda-doma.com/articles/a-550std-i-a-550diy-obzor.html
 12. Мембрана Filmtec TW30-1812-50 (1836р): https://krasnodar.leroymerlin.ru/product/membrana-dlya-obratnogo-osmosa-filmtec-tw30-1812-50-11268520/
 
+#2022-04-17
+
+Заменил магистральные фильтры
+
 #2022-01-23 17:21
 
 Заменил комплектом 202 + постфильтр Inline atoll CK-2586C ~2200р.
